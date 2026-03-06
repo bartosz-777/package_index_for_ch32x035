@@ -16,7 +16,7 @@
           "category": "Contributed",
           "url": "https://codeload.github.com/bartosz-777/arduino_core_weact_ch32x035/zip/main",
           "archiveFileName": "arduino_core_weact_ch32x035-main.zip",
-          "checksum": "sha256:b5bea7431c085b6a5170cbe278c9d4539f9e8f1373fc2bf68077aa52efe82a2e",
+          "checksum": "SHA256:b5bea7431c085b6a5170cbe278c9d4539f9e8f1373fc2bf68077aa52efe82a2e",
           "size": "2059112",
           "boards": [
             {
